@@ -1,16 +1,23 @@
-## Hi there 👋
+##👋 Hi, I’m Aaditya Kadam
 
-<!--
-**AadityaKadam1/AadityaKadam1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##🚀 Who am I?
 
-Here are some ideas to get you started:
+I’m a Web Developer with 6+ years of experience in designing and building modern, high-performing websites. I focus on creating solutions that are not just visually strong, but also practical and results-driven.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##💼 What I’m currently working on:
+
+-Building responsive websites using both no-code and custom code.
+-Developing AI agents that automate client communication and business workflows.
+-Creating high-impact content for brands (reels, ads, and social media).
+
+##🛠️ Tools & Technologies:
+
+-Web: HTML, CSS, JavaScript, No-code platforms
+-Design: Figma, Canva
+-Editing: CapCut, Premiere Pro
+-AI & Automation: ChatGPT, automation tools
+
+##📫 How to reach me
+📧 Email: aadityaskadam.edits@gmail.com
+📸 Instagram: its.aadieditz
+🌐 Portfolio: WORKING ON IT
